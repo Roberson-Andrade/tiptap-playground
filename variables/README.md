@@ -38,7 +38,7 @@ export const VariablesList = forwardRef<
 // component code
 ```
 
-Finally, through a `ReactContext` I provided the respective values for the values and also controlled the parsing:
+Finally, through a `ReactContext` I provided the respective values for the variables and also controlled the parsing:
 
 ```tsx
 // Provider
